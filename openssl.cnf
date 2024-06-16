@@ -6,7 +6,7 @@ distinguished_name = dn
 req_extensions     = req_ext
 
 [ dn ]
-C            = USA
+C            = US
 ST           = TX
 L            = Dallas
 O            = "Sri Consulting Services"
