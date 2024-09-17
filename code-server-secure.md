@@ -56,7 +56,11 @@ You can now start Code Server:
 
 ```bash
 code-server
+or
+sudo systemctl enable --now code-server@$USER
+
 ```
+
 
 #### 5. **Access Code Server**
 
