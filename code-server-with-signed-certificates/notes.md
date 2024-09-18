@@ -1,0 +1,1 @@
+Testing in odroid-m1 arm and is working as excepted
